@@ -1,0 +1,22 @@
+{
+  "name": "smart-switch-db",
+  "version": "1.0.0",
+  "description": "this is the database for the smart-switch web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joscor34/Smart-Switch-db.git"
+  },
+  "author": "joscor34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joscor34/Smart-Switch-db/issues"
+  },
+  "homepage": "https://github.com/joscor34/Smart-Switch-db#readme",
+  "dependencies": {
+    "mongoose": "^5.5.11"
+  }
+}
