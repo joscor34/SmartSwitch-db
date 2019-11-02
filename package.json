@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/joscor34/Smart-Switch-db#readme",
   "dependencies": {
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   }
 }
